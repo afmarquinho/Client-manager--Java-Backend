@@ -1,0 +1,6 @@
+zona_fit\connection\ConnectionDB.class
+zona_fit\view\ZonaFitApp.class
+zona_fit\ZonaFit.class
+zona_fit\data\IClientDao.class
+zona_fit\domain\Client.class
+zona_fit\data\ClientDao.class
