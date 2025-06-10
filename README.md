@@ -1,7 +1,7 @@
-🗂️ Administrador de Clientes - Backend en Java
+# 🗂️ Administrador de Clientes - Backend en Java
 Este es un pequeño backend desarrollado en Java con Maven, diseñado para gestionar clientes mediante operaciones CRUD sobre una base de datos MySQL.
 
-🚀 Características
+## 🚀 Características
 📌 CRUD completo para gestión de clientes.
 
 📦 Conexión directa a base de datos con SQL.
@@ -14,7 +14,7 @@ Este es un pequeño backend desarrollado en Java con Maven, diseñado para gesti
 
 🌐 Soporte para peticiones HTTP (GET, POST, PUT, DELETE).
 
-🧱 Tecnologías utilizadas
+## 🧱 Tecnologías utilizadas
 Java 17+
 
 Maven
